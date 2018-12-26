@@ -1,0 +1,18 @@
+{
+    "name": "rotmistrz/fluent-query",
+    "authors": [
+        {
+            "name": "Filip J. Markiewicz",
+            "email": "filip.markiewicz96@gmail.com"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "classmap": ["includes/", "classes/", "interfaces/"]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
